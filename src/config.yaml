@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: HWS Esports
+  site: 'https://hwsesports.netlify.app/'
   base: '/'
   trailingSlash: false
 
@@ -16,15 +16,15 @@ metadata:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: HWS Esports
     images:
       - url: '~/assets/images/default.png'
         width: 1200
         height: 628
     type: website
   twitter:
-    handle: '@onwidget'
-    site: '@onwidget'
+    handle: '@hwsesports'
+    site: '@hwsesports'
     cardType: summary_large_image
 
 i18n:
